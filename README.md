@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Sylvain, a Senior Electronic Repair Technician in a quantum computing company. Finance is one of my guilty pleasure, I will be mostly uploading projects on this topic.
+I am Sylvain, a Senior Electronic Repair Technician at a quantum computing company. Finance is one of my guilty pleasures, I will mostly be uploading projects on this topic.
 
 ## Some Facts About Me
 
