@@ -6,8 +6,8 @@ I am Sylvain, a Senior Electronic Repair Technician in a quantum computing compa
 
 - 🏋🏻‍♂️ Into CrossFit
 - ☕️ Not a coffee person
-- 📈 Finance guilty pleasure
 - 😍 Notion lover
+- 📈 Interested in Finance
 
 <!--
 **sylvainmacherel/sylvainmacherel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
